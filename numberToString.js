@@ -6,4 +6,4 @@ for(var i = 0; i < speech.length; i++){
         count++;
     }
 }
-console.log(count)
+console.log(count);
